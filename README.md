@@ -101,7 +101,7 @@ High-Value Stockouts (Bar): Pampers, Sunsilk Shampoo, Borges Olive Oil → high 
 Screenshots :
 (https://github.com/jainsmyk/Retail-Sales-Inventory-Analytics-Dashboard/blob/main/Screenshot%20of%20Home%20Dashboard.png)
 
+(https://github.com/jainsmyk/Retail-Sales-Inventory-Analytics-Dashboard/blob/main/Screenshot%20of%20Stock%20%26%20Inventory.png)
 
-
-
+(https://github.com/jainsmyk/Retail-Sales-Inventory-Analytics-Dashboard/blob/main/Screenshot%20of%20Discounts.png)
 
