@@ -99,9 +99,11 @@ High-Value Stockouts (Bar): Pampers, Sunsilk Shampoo, Borges Olive Oil → high 
 📊 Decision Support: Enabled real-time analysis of sales & stock trends → faster business decisions compared to manual Excel reports.
 
 Screenshots :
-(https://github.com/jainsmyk/Retail-Sales-Inventory-Analytics-Dashboard/blob/main/Screenshot%20of%20Home%20Dashboard.png)
 
-(https://github.com/jainsmyk/Retail-Sales-Inventory-Analytics-Dashboard/blob/main/Screenshot%20of%20Stock%20%26%20Inventory.png)
+<img width="1347" height="745" alt="Screenshot of Home Dashboard" src="https://github.com/user-attachments/assets/380e1061-b910-483f-82e0-9304588ae9f1" />
 
-(https://github.com/jainsmyk/Retail-Sales-Inventory-Analytics-Dashboard/blob/main/Screenshot%20of%20Discounts.png)
 
+<img width="1386" height="807" alt="Screenshot of Stock   Inventory" src="https://github.com/user-attachments/assets/05da2547-1a6c-4e5a-948e-e20af486be3b" />
+
+
+<img width="1403" height="842" alt="Screenshot of Discounts" src="https://github.com/user-attachments/assets/a0004f24-1e5c-4ed7-a4fb-36bc71e0c4d3" />
